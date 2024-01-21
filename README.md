@@ -8,7 +8,7 @@
   - [Image Analysis Middleware](https://github.com/jduprat6) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jduprat6)
-  - [Active Directory Bulk User Creation](https://github.com/jduprat6).
+  - [Active Directory Bulk User Creation](https://github.com/jduprat6)
 
 <h2>AI Projects:</h2>
   - <b>Custom Chat Bots</b>
@@ -20,7 +20,8 @@
  
 <h2>Currently Learning</h2>
   -SQL & Relational Database Management
-
+  
+<b><br/>
 <h2>📺 Cyber & Technology Realted Podcast Epidsodes</h2>
 
 - [Brian Gill CEO of Gillware (Interview): Why Startups Need a Tech Nerd in the Room](https://podcasts.apple.com/gr/podcast/brian-gill-why-startups-need-a-tech-nerd-in-the-room/id1466387659?i=1000513512402)
