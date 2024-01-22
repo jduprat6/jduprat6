@@ -32,8 +32,42 @@
 
 - SQL & Relational Database Management
 
-## Cybersecurity & Technology Related Episodes From My Podcast🎙️:
+## Completed University Level Cybersecurity and I.T. Courses:
+Western Govener's University (Designated a Center of Academic Excellence in Cyber Defense by the NSA and DHS)
+- Fundamentals of Information Security
+- Digital Forensics in Cybersecurity
+- Network and Security Applications
+- Network and Security Foundations
 
+Rochester Institute of Technology (I.T. Minor)
+- Introduction to I.T.
+- Computer Concepts and Software Systems
+- Data Analysis
+- Data Communications and Computer Networks
+- Computer Crime
+- Discrete Math for Tech I
+- Discrete Math for Tech II
+- Interactive Digital Media
+- Intro to Database & Data Modeling
+- OS Scripting
+- Programming for Information Technology I
+
+## Upcoming Wester Govenor's University Cybersecurity Courses (Est. Completion Dec 2024):
+- Introduction to Python
+- Business of I.T. - Project Management
+- Linux Foundations
+- Introduction to cryptography
+- Managing Cloud Security
+- Information Systems Security
+- Legal Issues in I.S.
+- Emerging Tech in Cybersecurity
+- Managing I.S.
+- Pen Testing and Vulnerability Analysis
+- Network
+- I.T. Foundations
+- I.T. Applications
+
+## Cybersecurity & Technology Related Episodes From My Podcast🎙️:
 
 - [Brian Gill, CEO of Gillware (Interview): Why Startups Need a Tech Nerd in the Room](https://podcasts.apple.com/gr/podcast/brian-gill-why-startups-need-a-tech-nerd-in-the-room/id1466387659?i=1000513512402)
 - [Tactical Tuesday: 7 Tips for Mitigting Data Breaches & Hacks](https://podcasts.apple.com/gr/podcast/348-7-tips-for-mitigating-data-breaches-hacks/id1466387659?i=1000628427319)
