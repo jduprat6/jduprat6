@@ -6,7 +6,7 @@
   - [WireShark](https://github.com/jduprat6/wireshark1)
 - **Active Directory**
   - [Active Directory Lab (being completed)](https://github.com/jduprat6/)
-- **SIEM Tools**
+- **IDS, IPS, & Network Analysis Tools**
   - [Suricata](https://github.com/jduprat6) 
 - **PowerShell**
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jduprat6)
