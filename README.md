@@ -14,10 +14,13 @@
 
 ## AI Projects:
 
-- **Custom Chat Bots**
+- **Custom LLM Chat Bots**
   - [Flowise AI Chatbot with Custom Data, using Vector databases](https://github.com/jduprat6/Flowise)
+  - Custom GPTs with documentaion, text books and other knowledge sources to accellerate trouble shooting and leanring
+- **Local Deployment of LLMs**
+  - Deployment of WhiteRabbitNeo-GGUF, an open-source LLMs fine-tuned for cyber security
 
-
+    
 ## Certifications:
 
 - CompTIA Security+
