@@ -16,18 +16,18 @@
   - [Flowise AI Chatbot with Large Vector Knowledge Base](https://github.com/jduprat6)
 
 
-## Certifications
+## Certifications:
 
 - CompTIA Security+
 - Google Cybersecurity Professional:
   - Hands on intro to SIEM Tools, IDS, tcpdump, Python, Linux, and SQL
 - Certified ScrumMaster®
 
-## Currently Learning
+## Currently Learning:
 
 - SQL & Relational Database Management
 
-## 🎙️Cybersecurity & Technology Related Podcast Episodes
+## Cybersecurity & Technology Related Episodes From My Podcast🎙️:
 
 
 - [Brian Gill, CEO of Gillware (Interview): Why Startups Need a Tech Nerd in the Room](https://podcasts.apple.com/gr/podcast/brian-gill-why-startups-need-a-tech-nerd-in-the-room/id1466387659?i=1000513512402)
@@ -37,7 +37,7 @@
 - [Jeremiah Robison, CEO of Cionic (Interview): The Duality of Being an Entrepreneur & A Parent Seeking Tech Solutions for Neurological Disorders](https://podcasts.apple.com/gr/podcast/jeremiah-robison-the-duality-of-being/id1466387659?i=1000557570158)
 
 
-<h2> 🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
 [<img align="left" alt="Jason Duprat | Apple" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/applepodcasts.svg" />][applepodcasts]
 [<img align="left" alt="Jason Duprat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
