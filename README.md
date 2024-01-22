@@ -28,7 +28,7 @@
   - Hands on intro to SIEM Tools, IDS, tcpdump, Python, Linux, and SQL
 - Certified ScrumMaster®
 
-## Currently Learning:
+## Currently Studying:
 
 - SQL & Relational Database Management
 
