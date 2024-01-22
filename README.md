@@ -3,11 +3,11 @@
 ## Cybersecurity Projects:
 
 - **Packet Analysis**
-  -[WireShark](https://github.com/jduprat6/wireshark1)
+  - [WireShark](https://github.com/jduprat6/wireshark1)
 - **Active Directory**
-  - [Active Directory Lab](https://github.com/jduprat6/)
-- **Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
-  - [Image Analysis Middleware](https://github.com/jduprat6) **_(Potentially NSFW)_**
+  - [Active Directory Lab (being completed)](https://github.com/jduprat6/)
+- **SIEM Tools**
+  - [Suricata](https://github.com/jduprat6) 
 - **PowerShell**
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jduprat6)
   - [Active Directory Bulk User Creation](https://github.com/jduprat6)
