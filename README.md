@@ -1,4 +1,4 @@
-# Welcome I'm [Jason Duprat, MBA.](https://www.linkedin.com/in/jasonaduprat/) I am a seasoned professional with SysAdmin experience and raspidly growing Cybersecurity knowledge.
+# Welcome I'm [Jason Duprat, MBA.](https://www.linkedin.com/in/jasonaduprat/) I am a seasoned professional with SysAdmin experience and rapidly growing Cybersecurity knowledge.
 
 ## Cybersecurity Projects:
 
