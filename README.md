@@ -9,7 +9,7 @@
 - **IDS, IPS, & Network Analysis Tools**
   - [Suricata](https://github.com/jduprat6/suricata)
 - **Linux**
-  - 
+  - [Linux Installation & CLI](https://github.com/jduprat6/linux)
   
 
 ## AI Projects:
