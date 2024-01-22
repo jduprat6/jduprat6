@@ -15,7 +15,7 @@
 ## AI Projects:
 
 - **Custom Chat Bots**
-  - [Flowise AI Chatbot with Large Vector Knowledge Base](https://github.com/jduprat6/Flowise)
+  - [Flowise AI Chatbot with Custom Data, using Vector databases](https://github.com/jduprat6/Flowise)
 
 
 ## Certifications:
