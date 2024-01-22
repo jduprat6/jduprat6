@@ -32,7 +32,7 @@
 
 - SQL & Relational Database Management Systems (RDBMS)
 
-## University Level Cybersecurity and I.T. Courses Completed:
+## University Level Cybersecurity and I.T. Courses I've Completed:
 Western Goveners University (Designated a Center of Academic Excellence in Cyber Defense by the NSA & DHS)
 - Fundamentals of Information Security
 - Digital Forensics in Cybersecurity
