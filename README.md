@@ -8,7 +8,8 @@
   - [Active Directory (being completed)](https://github.com/jduprat6/)
 - **IDS, IPS, & Network Analysis Tools**
   - [Suricata](https://github.com/jduprat6/suricata)
-- **PowerShell**
+- **Linux**
+  - 
   
 
 ## AI Projects:
