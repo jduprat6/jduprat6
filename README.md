@@ -33,7 +33,7 @@
 - SQL & Relational Database Management
 
 ## University Level Cybersecurity and I.T. Courses Completed:
-Western Govener's University (Designated a Center of Academic Excellence in Cyber Defense by the NSA and DHS)
+Western Goveners University (Designated a Center of Academic Excellence in Cyber Defense by the NSA & DHS)
 - Fundamentals of Information Security
 - Digital Forensics in Cybersecurity
 - Network and Security Applications
@@ -52,7 +52,7 @@ Rochester Institute of Technology (I.T. Minor)
 - OS Scripting
 - Programming for Information Technology I
 
-## Upcoming Wester Govenor's University Cybersecurity Course work:
+## Upcoming Wester Govenors University Cybersecurity Course work:
 (Est. Completion Dec 2024)
 - Introduction to Python
 - Business of I.T. - Project Management
