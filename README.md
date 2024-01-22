@@ -30,7 +30,7 @@
 
 ## Currently Studying:
 
-- SQL & Relational Database Management Systems(RDBMS)
+- SQL & Relational Database Management Systems (RDBMS)
 
 ## University Level Cybersecurity and I.T. Courses Completed:
 Western Goveners University (Designated a Center of Academic Excellence in Cyber Defense by the NSA & DHS)
