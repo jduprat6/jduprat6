@@ -58,14 +58,14 @@ Rochester Institute of Technology (I.T. Minor)
 - Introduction to Python
 - Business of I.T. - Project Management
 - Linux Foundations
-- Introduction to cryptography
+- Introduction to Cryptography
 - Managing Cloud Security
 - Information Systems Security
 - Legal Issues in I.S.
 - Emerging Tech in Cybersecurity
 - Managing I.S.
 - Pen Testing and Vulnerability Analysis
-- Network
+- Networks
 - I.T. Foundations
 - I.T. Applications
 
