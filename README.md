@@ -30,7 +30,7 @@
 
 ## Currently Studying:
 
-- SQL & Relational Database Management
+- SQL & Relational Database Management-Applications
 
 ## University Level Cybersecurity and I.T. Courses Completed:
 Western Goveners University (Designated a Center of Academic Excellence in Cyber Defense by the NSA & DHS)
@@ -38,6 +38,7 @@ Western Goveners University (Designated a Center of Academic Excellence in Cyber
 - Digital Forensics in Cybersecurity
 - Network and Security Applications
 - Network and Security Foundations
+- Database Management Foundations
 
 Rochester Institute of Technology (I.T. Minor)
 - Introduction to I.T.
