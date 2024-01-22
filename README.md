@@ -2,6 +2,8 @@
 
 ## Cybersecurity Projects:
 
+- **Packet Analysis**
+  -[WireShark](https://github.com/jduprat6/wireshark1)
 - **Active Directory**
   - [Active Directory Lab](https://github.com/jduprat6/)
 - **Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)**
