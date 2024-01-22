@@ -5,12 +5,11 @@
 - **Packet Analysis**
   - [WireShark](https://github.com/jduprat6/wireshark1)
 - **Active Directory**
-  - [Active Directory Lab (being completed)](https://github.com/jduprat6/)
+  - [Active Directory (being completed)](https://github.com/jduprat6/)
 - **IDS, IPS, & Network Analysis Tools**
-  - [Suricata](https://github.com/jduprat6) 
+  - [Suricata](https://github.com/jduprat6/suricata)
 - **PowerShell**
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/jduprat6)
-  - [Active Directory Bulk User Creation](https://github.com/jduprat6)
+  
 
 ## AI Projects:
 
