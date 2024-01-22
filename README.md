@@ -1,4 +1,4 @@
-# Welcome I'm [Jason Duprat MBA](https://www.linkedin.com/in/jasonaduprat/) a team player with SysAdmin experience and Cybersecurity knowledge.
+# Welcome I'm [Jason Duprat, MBA](https://www.linkedin.com/in/jasonaduprat/) I am a team player with SysAdmin experience and Cybersecurity knowledge.
 
 ## Cybersecurity Projects:
 
