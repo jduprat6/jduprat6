@@ -30,7 +30,7 @@
 
 ## Currently Studying:
 
-- SQL & Relational Database Management Systems (RDBMS)
+- Scripting and Programming - Foundations
 
 ## University Level Cybersecurity and I.T. Courses I've Completed:
 Western Governors University (Designated a Center of Academic Excellence in Cyber Defense by the NSA & DHS)
@@ -39,6 +39,7 @@ Western Governors University (Designated a Center of Academic Excellence in Cybe
 - Network and Security Applications
 - Network and Security Foundations
 - Database Management Foundations
+- Database Management Applications
 
 Rochester Institute of Technology (I.T. Minor)
 - Introduction to I.T.
@@ -52,6 +53,7 @@ Rochester Institute of Technology (I.T. Minor)
 - Intro to Database & Data Modeling
 - OS Scripting
 - Programming for Information Technology I
+- Programming for Information Technology II
 
 ## Upcoming Western Governors University Cybersecurity Coursework:
 (Est. Completion Sept 2024)
