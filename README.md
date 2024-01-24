@@ -31,6 +31,7 @@
 ## Currently Studying:
 
 - Scripting and Programming - Foundations
+- Introduction to Programming in Python
 
 ## University Level Cybersecurity and I.T. Courses I've Completed:
 Western Governors University (Designated a Center of Academic Excellence in Cyber Defense by the NSA & DHS)
@@ -57,7 +58,6 @@ Rochester Institute of Technology (I.T. Minor)
 
 ## Upcoming Western Governors University Cybersecurity Coursework:
 (Est. Completion Sept 2024)
-- Introduction to Python
 - Business of I.T. - Project Management
 - Linux Foundations
 - Introduction to Cryptography
